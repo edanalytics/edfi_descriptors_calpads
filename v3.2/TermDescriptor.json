@@ -1,0 +1,170 @@
+[
+    {
+        "codeValue": "FY",
+        "description": "Full Year",
+        "shortDescription": "Full Year",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "H1",
+        "description": "First Hexmester",
+        "shortDescription": "First Hexmester",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "H2",
+        "description": "Second Hexmester",
+        "shortDescription": "Second Hexmester",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "H3",
+        "description": "Third Hexmester",
+        "shortDescription": "Third Hexmester",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "H4",
+        "description": "Fourth Hexmester",
+        "shortDescription": "Fourth Hexmester",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "H5",
+        "description": "Fifth Hexmester",
+        "shortDescription": "Fifth Hexmester",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "H6",
+        "description": "Sixth Hexmester",
+        "shortDescription": "Sixth Hexmester",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "IS",
+        "description": "Intersession",
+        "shortDescription": "Intersession",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "Q1",
+        "description": "First Quarter",
+        "shortDescription": "First Quarter",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "Q2",
+        "description": "Second Quarter",
+        "shortDescription": "Second Quarter",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "Q3",
+        "description": "Third Quarter",
+        "shortDescription": "Third Quarter",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "Q4",
+        "description": "Fourth Quarter",
+        "shortDescription": "Fourth Quarter",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "S1",
+        "description": "First Semester",
+        "shortDescription": "First Semester",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "S2",
+        "description": "Second Semester",
+        "shortDescription": "Second Semester",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "SP",
+        "description": "Supplemental Session",
+        "shortDescription": "Supplemental Session",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "SS",
+        "description": "Summer Session",
+        "shortDescription": "Summer Session",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "T1",
+        "description": "First Trimester",
+        "shortDescription": "First Trimester",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "T2",
+        "description": "Second Trimester",
+        "shortDescription": "Second Trimester",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "T3",
+        "description": "Third Trimester",
+        "shortDescription": "Third Trimester",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "Z1",
+        "description": "Other First Term",
+        "shortDescription": "Other First Term",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "Z2",
+        "description": "Other Second Term",
+        "shortDescription": "Other Second Term",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "Z3",
+        "description": "Other Third Term",
+        "shortDescription": "Other Third Term",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "Z4",
+        "description": "Other Fourth Term",
+        "shortDescription": "Other Fourth Term",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "Z5",
+        "description": "Other Fifth Term",
+        "shortDescription": "Other Fifth Term",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "Z6",
+        "description": "Other Sixth Term",
+        "shortDescription": "Other Sixth Term",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "Z7",
+        "description": "Other Seventh Term",
+        "shortDescription": "Other Seventh Term",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "Z8",
+        "description": "Other Eighth Term",
+        "shortDescription": "Other Eighth Term",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    },
+    {
+        "codeValue": "Z9",
+        "description": "Other Ninth Term",
+        "shortDescription": "Other Ninth Term",
+        "namespace": "uri://calpads.edanalytics.org/TermDescriptor"
+    }
+]

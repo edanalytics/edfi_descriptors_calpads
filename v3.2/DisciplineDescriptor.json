@@ -1,0 +1,26 @@
+[
+    {
+        "codeValue": 100,
+        "description": "Out-of-School Suspension",
+        "shortDescription": "Out-of-School Suspension",
+        "namespace": "uri://calpads.edanalytics.org/DisciplineDescriptor"
+    },
+    {
+        "codeValue": 110,
+        "description": "In-School Suspension",
+        "shortDescription": "In-School Suspension",
+        "namespace": "uri://calpads.edanalytics.org/DisciplineDescriptor"
+    },
+    {
+        "codeValue": 200,
+        "description": "Expulsion",
+        "shortDescription": "Expulsion",
+        "namespace": "uri://calpads.edanalytics.org/DisciplineDescriptor"
+    },
+    {
+        "codeValue": 300,
+        "description": "Other Means of Correction or No Action",
+        "shortDescription": "Other Means of Correction or No Action",
+        "namespace": "uri://calpads.edanalytics.org/DisciplineDescriptor"
+    }
+]

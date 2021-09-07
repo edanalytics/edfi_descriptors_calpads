@@ -1,0 +1,92 @@
+[
+    {
+        "codeValue": 200,
+        "description": "None",
+        "shortDescription": "None",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    },
+    {
+        "codeValue": 210,
+        "description": "Intellectual Disability (ID)",
+        "shortDescription": "Intellectual Disability (ID)",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    },
+    {
+        "codeValue": 220,
+        "description": "Hard of hearing (HH)",
+        "shortDescription": "Hard of hearing (HH)",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    },
+    {
+        "codeValue": 230,
+        "description": "Deafness (DEAF)/Hearing impairment (HI)",
+        "shortDescription": "Deafness (DEAF)/Hearing impairment (HI)",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    },
+    {
+        "codeValue": 240,
+        "description": "Speech or language impairment (SLI)",
+        "shortDescription": "Speech or language impairment (SLI)",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    },
+    {
+        "codeValue": 250,
+        "description": "Visual impairment (VI)",
+        "shortDescription": "Visual impairment (VI)",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    },
+    {
+        "codeValue": 260,
+        "description": "Emotional disturbance (ED)",
+        "shortDescription": "Emotional disturbance (ED)",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    },
+    {
+        "codeValue": 270,
+        "description": "Orthopedic impairment (OI)",
+        "shortDescription": "Orthopedic impairment (OI)",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    },
+    {
+        "codeValue": 280,
+        "description": "Other health impairment (OHI)",
+        "shortDescription": "Other health impairment (OHI)",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    },
+    {
+        "codeValue": 281,
+        "description": "Established medical disability (EMD)",
+        "shortDescription": "Established medical disability (EMD)",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    },
+    {
+        "codeValue": 290,
+        "description": "Specific learning disability (SLD)",
+        "shortDescription": "Specific learning disability (SLD)",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    },
+    {
+        "codeValue": 300,
+        "description": "Deaf-blindness (DB)",
+        "shortDescription": "Deaf-blindness (DB)",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    },
+    {
+        "codeValue": 310,
+        "description": "Multiple disabilities (MD)",
+        "shortDescription": "Multiple disabilities (MD)",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    },
+    {
+        "codeValue": 320,
+        "description": "Autism (AUT)",
+        "shortDescription": "Autism (AUT)",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    },
+    {
+        "codeValue": 330,
+        "description": "Traumatic brain injury (TBI)",
+        "shortDescription": "Traumatic brain injury (TBI)",
+        "namespace": "uri://calpads.edanalytics.org/DisabilityDescriptor"
+    }
+]

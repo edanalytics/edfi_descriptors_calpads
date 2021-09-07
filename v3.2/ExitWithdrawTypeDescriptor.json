@@ -1,0 +1,224 @@
+[
+    {
+        "codeValue": 100,
+        "description": "Graduated, standard HS diploma",
+        "shortDescription": "Graduated, standard HS diploma",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": 104,
+        "description": "Completed all local and state graduation requirements, failed CAHSEE",
+        "shortDescription": "Completed all local and state graduation requirements, failed CAHSEE",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": 106,
+        "description": "Grad, CAHSEE mods & waiver",
+        "shortDescription": "Grad, CAHSEE mods & waiver",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": 108,
+        "description": "Grad, CAHSEE exempt",
+        "shortDescription": "Grad, CAHSEE exempt",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": 120,
+        "description": "Student with Disabilities Certificate of Completion",
+        "shortDescription": "Student with Disabilities Certificate of Completion",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": 250,
+        "description": "Adult Ed High School Diploma",
+        "shortDescription": "Adult Ed High School Diploma",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": 320,
+        "description": "Received a High School Equivalency Certificate (and no standard HS diploma)",
+        "shortDescription": "Received a High School Equivalency Certificate (and no standard HS diploma)",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": 330,
+        "description": "Passed CHSPE (and no standard HS diploma)",
+        "shortDescription": "Passed CHSPE (and no standard HS diploma)",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": 360,
+        "description": "Completed grade 12 without completing graduation requirements, not grad",
+        "shortDescription": "Completed grade 12 without completing graduation requirements, not grad",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": 480,
+        "description": "Promoted (matriculated)",
+        "shortDescription": "Promoted (matriculated)",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "E125",
+        "description": "PriorComplSpecEd",
+        "shortDescription": "PriorComplSpecEd",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "E130",
+        "description": "Died",
+        "shortDescription": "Died",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "E140",
+        "description": "NoKnownEnrollTruant",
+        "shortDescription": "NoKnownEnrollTruant",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "E150",
+        "description": "MidYearEnrollmentUpdate",
+        "shortDescription": "MidYearEnrollmentUpdate",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "E155",
+        "description": "YearEndEnrlmntExitSameSchl",
+        "shortDescription": "YearEndEnrlmntExitSameSchl",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "E170",
+        "description": "SecEnrlExit",
+        "shortDescription": "SecEnrlExit",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "E230",
+        "description": "CompleterExit",
+        "shortDescription": "CompleterExit",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "E300",
+        "description": "ExpellNoKnownEnroll",
+        "shortDescription": "ExpellNoKnownEnroll",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "E400",
+        "description": "OtherOrUnknown",
+        "shortDescription": "OtherOrUnknown",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "E410",
+        "description": "MedicalRsns",
+        "shortDescription": "MedicalRsns",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "E450",
+        "description": "PreK-6Exit",
+        "shortDescription": "PreK-6Exit",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "E490",
+        "description": "Summer or Intersession Exit",
+        "shortDescription": "Summer or Intersession Exit",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "N420",
+        "description": "NoShowSameSchl",
+        "shortDescription": "NoShowSameSchl",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "N470",
+        "description": "NoShow",
+        "shortDescription": "NoShow",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "T160",
+        "description": "TransCASchlRegular",
+        "shortDescription": "TransCASchlRegular",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "T165",
+        "description": "TransSpecDiscRsnsOrJudg",
+        "shortDescription": "TransSpecDiscRsnsOrJudg",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "T167",
+        "description": "TransAltSchlPrgm",
+        "shortDescription": "TransAltSchlPrgm",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "T180",
+        "description": "TransPrivate",
+        "shortDescription": "TransPrivate",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "T200",
+        "description": "TransUS",
+        "shortDescription": "TransUS",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "T240",
+        "description": "TransOutUS",
+        "shortDescription": "TransOutUS",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "T260",
+        "description": "TransInAdult",
+        "shortDescription": "TransInAdult",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "T270",
+        "description": "TransDropAdult",
+        "shortDescription": "TransDropAdult",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "T280",
+        "description": "TransCollege",
+        "shortDescription": "TransCollege",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "T310",
+        "description": "TransHealthFacil",
+        "shortDescription": "TransHealthFacil",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "T370",
+        "description": "TransInstHSDipl",
+        "shortDescription": "TransInstHSDipl",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "T380",
+        "description": "TransInstNoHSDip",
+        "shortDescription": "TransInstNoHSDip",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    },
+    {
+        "codeValue": "T460",
+        "description": "TransHomeSchl",
+        "shortDescription": "TransHomeSchl",
+        "namespace": "uri://calpads.edanalytics.org/ExitWithdrawTypeDescriptor"
+    }
+]

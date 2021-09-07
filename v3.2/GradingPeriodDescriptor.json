@@ -1,0 +1,152 @@
+[
+    {
+        "codeValue": "Quarter 1",
+        "description": "Quarter 1",
+        "shortDescription": "Quarter 1",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Semester 1",
+        "description": "Semester 1",
+        "shortDescription": "Semester 1",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Quarter 3",
+        "description": "Quarter 3",
+        "shortDescription": "Quarter 3",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Semester 2",
+        "description": "Semester 2",
+        "shortDescription": "Semester 2",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Hexamester 1",
+        "description": "Hexamester 1",
+        "shortDescription": "Hexamester 1",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Trimester 1",
+        "description": "Trimester 1",
+        "shortDescription": "Trimester 1",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Hexamester 3",
+        "description": "Hexamester 3",
+        "shortDescription": "Hexamester 3",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Trimester 2",
+        "description": "Trimester 2",
+        "shortDescription": "Trimester 2",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Hexamester 5",
+        "description": "Hexamester 5",
+        "shortDescription": "Hexamester 5",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Trimester 3",
+        "description": "Trimester 3",
+        "shortDescription": "Trimester 3",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "End of Year",
+        "description": "End of Year",
+        "shortDescription": "End of Year",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Summer Semester",
+        "description": "Summer Semester",
+        "shortDescription": "Summer Semester",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "First Summer Session",
+        "description": "First Summer Session",
+        "shortDescription": "First Summer Session",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Second Summer Session",
+        "description": "Second Summer Session",
+        "shortDescription": "Second Summer Session",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Third Summer Session",
+        "description": "Third Summer Session",
+        "shortDescription": "Third Summer Session",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Midquarter 1 Progress",
+        "description": "Midquarter 1 Progress",
+        "shortDescription": "Midquarter 1 Progress",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Midquarter 2 Progress",
+        "description": "Midquarter 2 Progress",
+        "shortDescription": "Midquarter 2 Progress",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Midquarter 3 Progress",
+        "description": "Midquarter 3 Progress",
+        "shortDescription": "Midquarter 3 Progress",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Midquarter 4 Progress",
+        "description": "Midquarter 4 Progress",
+        "shortDescription": "Midquarter 4 Progress",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Midhexamester 1 Progress",
+        "description": "Midhexamester 1 Progress",
+        "shortDescription": "Midhexamester 1 Progress",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Midhexamester 2 Progress",
+        "description": "Midhexamester 2 Progress",
+        "shortDescription": "Midhexamester 2 Progress",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Midhexamester 3 Progress",
+        "description": "Midhexamester 3 Progress",
+        "shortDescription": "Midhexamester 3 Progress",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Midhexamester 4 Progress",
+        "description": "Midhexamester 4 Progress",
+        "shortDescription": "Midhexamester 4 Progress",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Midhexamester 5 Progress",
+        "description": "Midhexamester 5 Progress",
+        "shortDescription": "Midhexamester 5 Progress",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    },
+    {
+        "codeValue": "Midhexamester 6 Progress",
+        "description": "Midhexamester 6 Progress",
+        "shortDescription": "Midhexamester 6 Progress",
+        "namespace": "uri://calpads.edanalytics.org/GradingPeriodDescriptor"
+    }
+]

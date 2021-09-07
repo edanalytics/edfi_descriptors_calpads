@@ -1,0 +1,32 @@
+[
+    {
+        "codeValue": "EL",
+        "description": "English Learner",
+        "shortDescription": "English Learner",
+        "namespace": "uri://calpads.edanalytics.org/LimitedEnglishProficiencyDescriptor"
+    },
+    {
+        "codeValue": "EO",
+        "description": "English or American Sign Language Only",
+        "shortDescription": "English or American Sign Language Only",
+        "namespace": "uri://calpads.edanalytics.org/LimitedEnglishProficiencyDescriptor"
+    },
+    {
+        "codeValue": "IFEP",
+        "description": "Initial Fluent English Proficient",
+        "shortDescription": "Initial Fluent English Proficient",
+        "namespace": "uri://calpads.edanalytics.org/LimitedEnglishProficiencyDescriptor"
+    },
+    {
+        "codeValue": "RFEP",
+        "description": "Reclassified Fluent English Proficient",
+        "shortDescription": "Reclassified Fluent English Proficient",
+        "namespace": "uri://calpads.edanalytics.org/LimitedEnglishProficiencyDescriptor"
+    },
+    {
+        "codeValue": "TBD",
+        "description": "To Be Determined",
+        "shortDescription": "To Be Determined",
+        "namespace": "uri://calpads.edanalytics.org/LimitedEnglishProficiencyDescriptor"
+    }
+]

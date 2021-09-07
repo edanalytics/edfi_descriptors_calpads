@@ -1,0 +1,482 @@
+[
+    {
+        "codeValue": "00",
+        "description": "English",
+        "shortDescription": "English",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": "01",
+        "description": "Spanish",
+        "shortDescription": "Spanish",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": "02",
+        "description": "Vietnamese",
+        "shortDescription": "Vietnamese",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": "03",
+        "description": "Cantonese",
+        "shortDescription": "Cantonese",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": "04",
+        "description": "Korean",
+        "shortDescription": "Korean",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": "05",
+        "description": "Filipino (Pilipino or Tagalog)",
+        "shortDescription": "Filipino (Pilipino or Tagalog)",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": "06",
+        "description": "Portuguese",
+        "shortDescription": "Portuguese",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": "07",
+        "description": "Mandarin (Putonghua)",
+        "shortDescription": "Mandarin (Putonghua)",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": "08",
+        "description": "Japanese",
+        "shortDescription": "Japanese",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": "09",
+        "description": "Khmer (Cambodian)",
+        "shortDescription": "Khmer (Cambodian)",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 10,
+        "description": "Lao",
+        "shortDescription": "Lao",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 11,
+        "description": "Arabic",
+        "shortDescription": "Arabic",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 12,
+        "description": "Armenian",
+        "shortDescription": "Armenian",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 13,
+        "description": "Burmese",
+        "shortDescription": "Burmese",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 15,
+        "description": "Dutch",
+        "shortDescription": "Dutch",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 16,
+        "description": "Farsi (Persian)",
+        "shortDescription": "Farsi (Persian)",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 17,
+        "description": "French",
+        "shortDescription": "French",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 18,
+        "description": "German",
+        "shortDescription": "German",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 19,
+        "description": "Greek",
+        "shortDescription": "Greek",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 20,
+        "description": "Chamorro (Guamanian)",
+        "shortDescription": "Chamorro (Guamanian)",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 21,
+        "description": "Hebrew",
+        "shortDescription": "Hebrew",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 22,
+        "description": "Hindi",
+        "shortDescription": "Hindi",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 23,
+        "description": "Hmong",
+        "shortDescription": "Hmong",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 24,
+        "description": "Hungarian",
+        "shortDescription": "Hungarian",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 25,
+        "description": "Ilocano",
+        "shortDescription": "Ilocano",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 26,
+        "description": "Indonesian",
+        "shortDescription": "Indonesian",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 27,
+        "description": "Italian",
+        "shortDescription": "Italian",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 28,
+        "description": "Punjabi",
+        "shortDescription": "Punjabi",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 29,
+        "description": "Russian",
+        "shortDescription": "Russian",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 30,
+        "description": "Samoan",
+        "shortDescription": "Samoan",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 32,
+        "description": "Thai",
+        "shortDescription": "Thai",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 33,
+        "description": "Turkish",
+        "shortDescription": "Turkish",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 34,
+        "description": "Tongan",
+        "shortDescription": "Tongan",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 35,
+        "description": "Urdu",
+        "shortDescription": "Urdu",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 36,
+        "description": "Cebuano (Visayan)",
+        "shortDescription": "Cebuano (Visayan)",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 37,
+        "description": "Sign Language",
+        "shortDescription": "Sign Language",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 38,
+        "description": "Ukrainian",
+        "shortDescription": "Ukrainian",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 39,
+        "description": "Chaozhou (Chiuchow)",
+        "shortDescription": "Chaozhou (Chiuchow)",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 40,
+        "description": "Pashto",
+        "shortDescription": "Pashto",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 41,
+        "description": "Polish",
+        "shortDescription": "Polish",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 42,
+        "description": "Assyrian",
+        "shortDescription": "Assyrian",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 43,
+        "description": "Gujarati",
+        "shortDescription": "Gujarati",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 44,
+        "description": "Mien (Yao)",
+        "shortDescription": "Mien (Yao)",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 45,
+        "description": "Rumanian",
+        "shortDescription": "Rumanian",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 46,
+        "description": "Taiwanese",
+        "shortDescription": "Taiwanese",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 47,
+        "description": "Lahu",
+        "shortDescription": "Lahu",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 48,
+        "description": "Marshallese",
+        "shortDescription": "Marshallese",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 49,
+        "description": "Mixteco",
+        "shortDescription": "Mixteco",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 50,
+        "description": "Khmu",
+        "shortDescription": "Khmu",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 51,
+        "description": "Kurdish (Kurdi, Kurmanji)",
+        "shortDescription": "Kurdish (Kurdi, Kurmanji)",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 52,
+        "description": "Serbo-Croatian (Bosnian, Croatian, Serbian)",
+        "shortDescription": "Serbo-Croatian (Bosnian, Croatian, Serbian)",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 53,
+        "description": "Toishanese",
+        "shortDescription": "Toishanese",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 54,
+        "description": "Chaldean",
+        "shortDescription": "Chaldean",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 56,
+        "description": "Albanian",
+        "shortDescription": "Albanian",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 57,
+        "description": "Tigrinya",
+        "shortDescription": "Tigrinya",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 60,
+        "description": "Somali",
+        "shortDescription": "Somali",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 61,
+        "description": "Bengali",
+        "shortDescription": "Bengali",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 62,
+        "description": "Telugu",
+        "shortDescription": "Telugu",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 63,
+        "description": "Tamil",
+        "shortDescription": "Tamil",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 64,
+        "description": "Marathi",
+        "shortDescription": "Marathi",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 65,
+        "description": "Kannada",
+        "shortDescription": "Kannada",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 66,
+        "description": "Amharic",
+        "shortDescription": "Amharic",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 67,
+        "description": "Bulgarian ",
+        "shortDescription": "Bulgarian ",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 68,
+        "description": "Kikuyu (Gikuyu)",
+        "shortDescription": "Kikuyu (Gikuyu)",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 69,
+        "description": "Kashmiri",
+        "shortDescription": "Kashmiri",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 70,
+        "description": "Swedish ",
+        "shortDescription": "Swedish ",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 71,
+        "description": "Zapoteco ",
+        "shortDescription": "Zapoteco ",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 72,
+        "description": "Uzbek",
+        "shortDescription": "Uzbek",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 73,
+        "description": "Haitian (Haitian Creole) ",
+        "shortDescription": "Haitian (Haitian Creole) ",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 74,
+        "description": "Kachin (Jingpho) ",
+        "shortDescription": "Kachin (Jingpho) ",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 75,
+        "description": "Karen languages ",
+        "shortDescription": "Karen languages ",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 76,
+        "description": "Nepali ",
+        "shortDescription": "Nepali ",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 77,
+        "description": "Swahili ",
+        "shortDescription": "Swahili ",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 78,
+        "description": "Oromo",
+        "shortDescription": "Oromo",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 79,
+        "description": "Lingala",
+        "shortDescription": "Lingala",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 80,
+        "description": "Kinyarwanda ",
+        "shortDescription": "Kinyarwanda ",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 81,
+        "description": "Dzongkha",
+        "shortDescription": "Dzongkha",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 82,
+        "description": "Dinka",
+        "shortDescription": "Dinka",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": 99,
+        "description": "Other non-English languages",
+        "shortDescription": "Other non-English languages",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    },
+    {
+        "codeValue": "UU",
+        "description": "Unknown",
+        "shortDescription": "Unknown",
+        "namespace": "uri://calpads.edanalytics.org/LanguageDescriptor"
+    }
+]

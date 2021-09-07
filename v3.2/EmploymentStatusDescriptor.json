@@ -1,0 +1,26 @@
+[
+    {
+        "codeValue": 1,
+        "description": "Tenured",
+        "shortDescription": "Tenured",
+        "namespace": "uri://calpads.edanalytics.org/EmploymentStatusDescriptor"
+    },
+    {
+        "codeValue": 2,
+        "description": "Probationary",
+        "shortDescription": "Probationary",
+        "namespace": "uri://calpads.edanalytics.org/EmploymentStatusDescriptor"
+    },
+    {
+        "codeValue": 3,
+        "description": "Temporary",
+        "shortDescription": "Temporary",
+        "namespace": "uri://calpads.edanalytics.org/EmploymentStatusDescriptor"
+    },
+    {
+        "codeValue": 4,
+        "description": "Other",
+        "shortDescription": "Other",
+        "namespace": "uri://calpads.edanalytics.org/EmploymentStatusDescriptor"
+    }
+]

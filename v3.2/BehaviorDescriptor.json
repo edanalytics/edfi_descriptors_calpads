@@ -1,0 +1,200 @@
+[
+    {
+        "codeValue": 100,
+        "description": "Possession, Sale, Furnishing a Firearm",
+        "shortDescription": "Possession, Sale, Furnishing a Firearm",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 101,
+        "description": "Possession, Sale, Furnishing a Firearm, Other Dangerous Object",
+        "shortDescription": "Possession, Sale, Furnishing a Firearm, Other Dangerous Object",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 102,
+        "description": "Possession of an Imitation Firearm",
+        "shortDescription": "Possession of an Imitation Firearm",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 103,
+        "description": "Brandishing a Knife",
+        "shortDescription": "Brandishing a Knife",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 104,
+        "description": "Possession of a Knife or Dangerous Object",
+        "shortDescription": "Possession of a Knife or Dangerous Object",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 105,
+        "description": "Possession of an Explosive",
+        "shortDescription": "Possession of an Explosive",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 200,
+        "description": "Sale of Controlled Substance",
+        "shortDescription": "Sale of Controlled Substance",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 201,
+        "description": "Possession of Controlled Substance",
+        "shortDescription": "Possession of Controlled Substance",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 202,
+        "description": "Possession, Use, Sale, Furnishing Controlled Substance, Alcohol, Intoxicant",
+        "shortDescription": "Possession, Use, Sale, Furnishing Controlled Substance, Alcohol, Intoxicant",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 203,
+        "description": "Offering, Arranging, Negotiating Sale Controlled Substances, Intoxicants",
+        "shortDescription": "Offering, Arranging, Negotiating Sale Controlled Substances, Intoxicants",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 204,
+        "description": "Offering, Arranging, or Negotiating Sale of Drug Paraphernalia",
+        "shortDescription": "Offering, Arranging, or Negotiating Sale of Drug Paraphernalia",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 205,
+        "description": "Offering, Arranging, or Negotiating Sale of Soma",
+        "shortDescription": "Offering, Arranging, or Negotiating Sale of Soma",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 300,
+        "description": "Possession or Use of Tobacco Products",
+        "shortDescription": "Possession or Use of Tobacco Products",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 400,
+        "description": "Sexual Battery",
+        "shortDescription": "Sexual Battery",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 401,
+        "description": "Sexual Assault",
+        "shortDescription": "Sexual Assault",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 403,
+        "description": "Sexual Harassment",
+        "shortDescription": "Sexual Harassment",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 500,
+        "description": "Caused Physical Injury",
+        "shortDescription": "Caused Physical Injury",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 501,
+        "description": "Caused, Attempted, or Threatened Physical Injury",
+        "shortDescription": "Caused, Attempted, or Threatened Physical Injury",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 502,
+        "description": "Aided or Abetted Physical Injury",
+        "shortDescription": "Aided or Abetted Physical Injury",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 503,
+        "description": "Committed Assault or Battery on a School Employee",
+        "shortDescription": "Committed Assault or Battery on a School Employee",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 504,
+        "description": "Used Force or Violence",
+        "shortDescription": "Used Force or Violence",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 505,
+        "description": "Committed an act of Hate Violence",
+        "shortDescription": "Committed an act of Hate Violence",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 506,
+        "description": "Harassment or Intimidation",
+        "shortDescription": "Harassment or Intimidation",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 507,
+        "description": "Harassment, Intimidation of a Witness",
+        "shortDescription": "Harassment, Intimidation of a Witness",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 508,
+        "description": "Made Terrorist Threats",
+        "shortDescription": "Made Terrorist Threats",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 509,
+        "description": "Hazing",
+        "shortDescription": "Hazing",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 510,
+        "description": "Obscene Acts, Profanity, and Vulgarity",
+        "shortDescription": "Obscene Acts, Profanity, and Vulgarity",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 511,
+        "description": "Disruption, Defiance",
+        "shortDescription": "Disruption, Defiance",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 512,
+        "description": "Property Damage",
+        "shortDescription": "Property Damage",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 513,
+        "description": "Bullying",
+        "shortDescription": "Bullying",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 600,
+        "description": "Robbery or Extortion",
+        "shortDescription": "Robbery or Extortion",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 601,
+        "description": "Property Theft",
+        "shortDescription": "Property Theft",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    },
+    {
+        "codeValue": 602,
+        "description": "Received Stolen Property",
+        "shortDescription": "Received Stolen Property",
+        "namespace": "uri://calpads.edanalytics.org/BehaviorDescriptor"
+    }
+]

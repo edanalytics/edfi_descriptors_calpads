@@ -1,0 +1,104 @@
+[
+    {
+        "codeValue": 10,
+        "description": "Graduate Degree or Higher",
+        "shortDescription": "Graduate Degree or Higher",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": 11,
+        "description": "College Graduate",
+        "shortDescription": "College Graduate",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": 12,
+        "description": "Some College or Associate's Degree",
+        "shortDescription": "Some College or Associate's Degree",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": 13,
+        "description": "High School Graduate",
+        "shortDescription": "High School Graduate",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": 14,
+        "description": "Not a High School Graduate",
+        "shortDescription": "Not a High School Graduate",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": 15,
+        "description": "Decline to State",
+        "shortDescription": "Decline to State",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": "A",
+        "description": "Associate",
+        "shortDescription": "Associate",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": "B",
+        "description": "Baccalaureate",
+        "shortDescription": "Baccalaureate",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": "C",
+        "description": "Baccalaureate Plus 30",
+        "shortDescription": "Baccalaureate Plus 30",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": "D",
+        "description": "Doctorate",
+        "shortDescription": "Doctorate",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": "F",
+        "description": "Fifth Year",
+        "shortDescription": "Fifth Year",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": "M",
+        "description": "Master",
+        "shortDescription": "Master",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": "N",
+        "description": "None",
+        "shortDescription": "None",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": "S",
+        "description": "Special",
+        "shortDescription": "Special",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": "U",
+        "description": "Fifth Year within BA",
+        "shortDescription": "Fifth Year within BA",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": "V",
+        "description": "Master Plus 30",
+        "shortDescription": "Master Plus 30",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    },
+    {
+        "codeValue": "Y",
+        "description": "Fifth Year Induction",
+        "shortDescription": "Fifth Year Induction",
+        "namespace": "uri://calpads.edanalytics.org/LevelOfEducationDescriptor"
+    }
+]

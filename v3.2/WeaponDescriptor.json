@@ -1,0 +1,32 @@
+[
+    {
+        "codeValue": 10,
+        "description": "Handgun",
+        "shortDescription": "Handgun",
+        "namespace": "uri://calpads.edanalytics.org/WeaponDescriptor"
+    },
+    {
+        "codeValue": 20,
+        "description": "Shotgun or Rifle",
+        "shortDescription": "Shotgun or Rifle",
+        "namespace": "uri://calpads.edanalytics.org/WeaponDescriptor"
+    },
+    {
+        "codeValue": 30,
+        "description": "Other Firearm",
+        "shortDescription": "Other Firearm",
+        "namespace": "uri://calpads.edanalytics.org/WeaponDescriptor"
+    },
+    {
+        "codeValue": 40,
+        "description": "Other Weapon",
+        "shortDescription": "Other Weapon",
+        "namespace": "uri://calpads.edanalytics.org/WeaponDescriptor"
+    },
+    {
+        "codeValue": 50,
+        "description": "Multiple Weapons with Firearm",
+        "shortDescription": "Multiple Weapons with Firearm",
+        "namespace": "uri://calpads.edanalytics.org/WeaponDescriptor"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "codeValue": "01",
+        "description": "First Grade",
+        "shortDescription": "First Grade",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "02",
+        "description": "Second Grade",
+        "shortDescription": "Second Grade",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "03",
+        "description": "Third Grade",
+        "shortDescription": "Third Grade",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "04",
+        "description": "Fourth Grade",
+        "shortDescription": "Fourth Grade",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "05",
+        "description": "Fifth Grade",
+        "shortDescription": "Fifth Grade",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "06",
+        "description": "Sixth Grade",
+        "shortDescription": "Sixth Grade",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "07",
+        "description": "Seventh Grade",
+        "shortDescription": "Seventh Grade",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "08",
+        "description": "Eighth Grade",
+        "shortDescription": "Eighth Grade",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "09",
+        "description": "Ninth Grade",
+        "shortDescription": "Ninth Grade",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "10",
+        "description": "Tenth Grade",
+        "shortDescription": "Tenth Grade",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "11",
+        "description": "Eleventh Grade",
+        "shortDescription": "Eleventh Grade",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "12",
+        "description": "Twelfth Grade",
+        "shortDescription": "Twelfth Grade",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "AD",
+        "description": "Adult",
+        "shortDescription": "Adult",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "IN",
+        "description": "Infant",
+        "shortDescription": "Infant",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "KN",
+        "description": "Kindergarten",
+        "shortDescription": "Kindergarten",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "PS",
+        "description": "Prekindergarten",
+        "shortDescription": "Prekindergarten",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "TD",
+        "description": "Toddlers",
+        "shortDescription": "Toddlers",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "UE",
+        "description": "Ungraded Elementary",
+        "shortDescription": "Ungraded Elementary",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "US",
+        "description": "Ungraded Secondary",
+        "shortDescription": "Ungraded Secondary",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    },
+    {
+        "codeValue": "UU",
+        "description": "Unknown",
+        "shortDescription": "Unknown",
+        "namespace": "uri://calpads.edanalytics.org/GradeLevelDescriptor"
+    }
+]

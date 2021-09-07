@@ -1,0 +1,92 @@
+[
+    {
+        "codeValue": 10,
+        "description": "Administrator",
+        "shortDescription": "Administrator",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    },
+    {
+        "codeValue": 11,
+        "description": "Pupil services",
+        "shortDescription": "Pupil services",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    },
+    {
+        "codeValue": 12,
+        "description": "Teacher",
+        "shortDescription": "Teacher",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    },
+    {
+        "codeValue": 25,
+        "description": "Non-certificated Administrator",
+        "shortDescription": "Non-certificated Administrator",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    },
+    {
+        "codeValue": 26,
+        "description": "Charter School Non-certificated Teacher",
+        "shortDescription": "Charter School Non-certificated Teacher",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    },
+    {
+        "codeValue": 27,
+        "description": "Itinerant or Pull-Out/Push-In Teacher",
+        "shortDescription": "Itinerant or Pull-Out/Push-In Teacher",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    },
+    {
+        "codeValue": "T1-Math",
+        "description": "T1-Instruction Mathematics",
+        "shortDescription": "T1-Instruction Mathematics",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    },
+    {
+        "codeValue": "T1-RLA",
+        "description": "T1-Reading Language Arts",
+        "shortDescription": "T1-Reading Language Arts",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    },
+    {
+        "codeValue": "T1-Science",
+        "description": "T1-Science",
+        "shortDescription": "T1-Science",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    },
+    {
+        "codeValue": "T1-S.Studies",
+        "description": "T1-Social Studies",
+        "shortDescription": "T1-Social Studies",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    },
+    {
+        "codeValue": "T1-Vocation/Career",
+        "description": "T1-Vocational/Career",
+        "shortDescription": "T1-Vocational/Career",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    },
+    {
+        "codeValue": "T1-Other Instructor",
+        "description": "T1-Other Instructional Service",
+        "shortDescription": "T1-Other Instructional Service",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    },
+    {
+        "codeValue": "T1-Health/Dental/Eye",
+        "description": "T1-Health Dental and Eye Care",
+        "shortDescription": "T1-Health Dental and Eye Care",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    },
+    {
+        "codeValue": "T1-Guidance/Advocacy",
+        "description": "T1-Guidance/Advocacy",
+        "shortDescription": "T1-Guidance/Advocacy",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    },
+    {
+        "codeValue": "T1-Other Support Service",
+        "description": "T1-Other Support Service",
+        "shortDescription": "T1-Other Support Service",
+        "namespace": "uri://calpads.edanalytics.org/StaffClassificationDescriptor"
+    }
+]
